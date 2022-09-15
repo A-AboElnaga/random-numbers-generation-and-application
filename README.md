@@ -9,4 +9,4 @@ Random numbers generation and application
 - [random integers generator](#4)
 - [Approximation of Pi](#5)
 
-![Pi Aproximation using randomly generated points](/assets/images/AproxPi.png)
+![Pi Aproximation using randomly generated points](/AproxPi.png)
